@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "name": "crawlers",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "puppeteer": "^10.2.0"
+    }
+}
